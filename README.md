@@ -20,7 +20,7 @@
       </a>
     </p>
     
- ### 🛠️ Languages and Tools..
+ ### 🛠️ Currently Exploring..
  
 <p class="tech" align="left">
   <a href="https://cplusplus.com/" target="_blank"> 

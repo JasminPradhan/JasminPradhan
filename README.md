@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=40&duration=2263&pause=1000&color=13D0C1&width=450&height=60&lines=Hola!!!;I'm+Jasmin+Pradhan..)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" align="right" width="300"/>
 

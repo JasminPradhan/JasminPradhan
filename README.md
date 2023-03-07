@@ -15,8 +15,8 @@
       <a href="https://www.linkedin.com/in/jasmin-pradhan-a40565228/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
       </a>
-       <a href="https://www.instagram.com/jasminpradhan_/">
-        <img src="https://img.shields.io/badge/-Instagram-d62976?logo=instagram&logoColor=yellow&style=for-the-badge" alt="Instagram Badge"/>
+       <a href="https://twitter.com/Jasmin_Pradhan_">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
       </a>
     </p>
     

@@ -72,9 +72,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JasminPradhan&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
-<a href="#">
-<img alt="Jasmin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JasminPradhan&bg_color=1F222E&color=F8D866&line=F25D4F&point=FFFF9F&hide_border=true" />
-</a>
+[![Jasmin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JasminPradhan&bg_color=000000&color=e0006c&line=0096e0&point=41413e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **JasminPradhan/JasminPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

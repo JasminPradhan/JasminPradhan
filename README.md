@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" align="right" width="300"/>
 
-🔭 I’m currently working on <strong>Web Development.</strong>🕸
+🔭 I’m currently working on <strong>Machine Learning and Backend Development(Django).</strong>🕸
 
-🌱 I’m currently learning Reactjs and lot of other tech stuffs...<strong>A Rookie</strong>🐛
+🌱 I have a good grasp of Reactjs and still exploring a lot of other tech stuffs...<strong>A Rookie</strong>🐛
 
-🦋 I’m looking to collaborate on Web Development Projects 😄
+🦋 I’m looking to collaborate on Web Development and Machine Learning Projects 😄
 
 
 

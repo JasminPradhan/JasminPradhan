@@ -17,7 +17,7 @@
       </a>
  </p>
     
- ### 🛠️ Currently Exploring..
+ ### 🛠️ Tech Stack..
  
 <p class="tech" align="left">
   <a href="https://cplusplus.com/" target="_blank"> 
@@ -60,8 +60,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JasminPradhan&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
-[![Jasmin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JasminPradhan&bg_color=000000&color=e0006c&line=0096e0&point=41413e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JasminPradhan&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **JasminPradhan/JasminPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

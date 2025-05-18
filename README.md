@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" align="right" width="300"/>
 
-🔭 I’m currently working on <strong>Machine Learning and Backend Development(Django).</strong>🕸
+🔭 I’m currently working on <strong>Machine Learning and Backend Development.</strong>🕸
 
 🌱 I have a good grasp of Reactjs and still exploring a lot of other tech stuffs...<strong>A Rookie</strong>🐛
 
-🦋 I’m looking to collaborate on Web Development and Machine Learning Projects 😄
+🦋 I’m looking to collaborate and contribute in Opensource projects😄
 
 
 
@@ -15,10 +15,7 @@
       <a href="https://www.linkedin.com/in/jasmin-pradhan-a40565228/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
       </a>
-       <a href="https://twitter.com/Jasmin_Pradhan_">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-      </a>
-    </p>
+ </p>
     
  ### 🛠️ Currently Exploring..
  
@@ -26,23 +23,11 @@
   <a href="https://cplusplus.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="40" height="40"/> 
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
   <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a>
-   <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://devdocs.io/html/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40"/> 
-    </a>
   <a href="https://devdocs.io/css/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3" width="40" height="40"/> 
-  </a>
-  <a href="https://javascript.info/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
@@ -61,6 +46,12 @@
   </a>
    <a href="https://hub.docker.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Docker" width="40" height="40"/> 
   </a>
 </p>
 

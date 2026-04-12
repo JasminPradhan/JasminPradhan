@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" align="right" width="300"/>
 
-🔭 I’m currently working on <strong>Machine Learning and Backend Development.</strong>🕸
+🔭 Deep diving into <strong>GenAI and Backend Development.</strong>🕸
 
-🌱 I have a good grasp of Reactjs and still exploring a lot of other tech stuffs...<strong>A Rookie</strong>🐛
+🌱 Frontend -> Data science/Machine Learning -> Deeplearning -> GenAI -> Backend and Architecture with GenAI -> a lot coming...
 
 🦋 I’m looking to collaborate and contribute in Opensource projects😄
 
